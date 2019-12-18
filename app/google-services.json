@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "52331873075",
+    "firebase_url": "https://calculadoraflex-viniciusals.firebaseio.com",
+    "project_id": "calculadoraflex-viniciusals",
+    "storage_bucket": "calculadoraflex-viniciusals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52331873075:android:411116595af2461010f446",
+        "android_client_info": {
+          "package_name": "br.com.vinicius.fiap.calculadoraflex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52331873075-2ci2a3jd36oqj8iphfgibbenei6q4g8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.vinicius.fiap.calculadoraflex",
+            "certificate_hash": "1d0cf0875b8f844eab33bf9728f9f7c78803262e"
+          }
+        },
+        {
+          "client_id": "52331873075-o33kh8a0e0l1802bds4nu715bjr3geff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5AYy9caSOSqhHCfzxORU3pD7D0E6IMfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52331873075-o33kh8a0e0l1802bds4nu715bjr3geff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
